@@ -12,7 +12,7 @@
 
 .bg_bottom {
   background-repeat: no-repeat;
-  background-size: 100vw 100%;
+  background-size: cover;
   background-image: url(../images/bottom_mob.svg);
   @media (min-width: 744px) {
     background-image: url(../images/bottom_tablet.svg);

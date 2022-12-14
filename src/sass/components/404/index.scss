@@ -4,7 +4,7 @@
 body {
   background-image: url(../../../images/404_and_thx_bg_mob.svg);
   background-repeat: no-repeat;
-  background-size: 100vw 100%;
+  background-size: cover;
   @media (min-width: 1000px) {
     background-image: url(../../../images/404_and_thx_bg.svg);
   }
